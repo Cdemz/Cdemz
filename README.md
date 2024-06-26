@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Cdemz
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning front-end development 
-- 💞️ I’m looking to collaborate on websites projects 
-- 📫 How to reach me gbengaadepoju75@gmail.com 
+- 👋 Hello, I'm Ademola Adepoju (@Cdemz)
+
+🚀 Frontend Developer passionate about creating responsive and user-friendly web experiences
+
+💻 Proficient in HTML, CSS, JavaScript, and modern frontend frameworks
+
+🌱 Continuously expanding my skills in full-stack development
+
+🔍 Seeking opportunities to collaborate on innovative web projects
+
+🎯 Goal-oriented developer with a keen eye for design and user experience
+
+📫 Connect with me: gbengaadepoju75@gmail.com | (https://www.linkedin.com/in/ademola-adepoju-6ab37526b)
+
+🛠️ Open to new challenges and always eager to learn and grow in the ever-evolving world of web development
 
 <!---
 Cdemz/Cdemz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

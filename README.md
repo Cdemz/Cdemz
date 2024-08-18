@@ -2,7 +2,7 @@
 
 🚀 Frontend Developer passionate about creating responsive and user-friendly web experiences
 
-💻 Proficient in HTML, CSS, JavaScript, and modern frontend frameworks
+💻 Proficient in HTML, CSS, JavaScript, TypeScript, and modern frontend frameworks, ReactJs, Vue.
 
 🌱 Continuously expanding my skills in full-stack development
 
